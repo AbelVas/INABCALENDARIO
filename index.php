@@ -55,7 +55,7 @@
          <div class="row">
           <!--Columna 1-->
           <div class="col-lg-4 col-md-2 col-sm-6 col-xs-12">
-           <p> <img src="images/logoinab.png"  alt="imagen del inab" class="img-responsive center-block" style="border-radius: 100%; width:300px;height: 200px;"></p>
+           <p> <img src="images/image003.jpg"  alt="imagen del inab" class="img-responsive center-block" style="border-radius: 100%; width:300px;height: 200px;"></p>
             <h4 class="text-center"><b>Instituto nacional de Bosques (INAB), m&aacute;s bosques, m&aacute;s vida.</b></h4>
             <p align="justify" style="font-size:17px">Estamos orgullosos de trabajar para el Sector Forestal de Guatemala desde el a&ntildeo 1996. El INAB es una entidad estatal, aut&oacutenoma, descentralizada, con personalidad jur&iacutedica, patrimonio propio e independencia administrativa, y es el &oacutergano de direcci&oacuten y autoridad competente del Sector P&uacuteblico Agr&iacutecola en materia Forestal.</p>
             <h4 class="text-center"><b>Visi&oacuten:</b></h4>
