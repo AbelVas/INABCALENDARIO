@@ -22,7 +22,7 @@
         <a href="descargas/index.php" target="_blank" class="btn btn-default btn-lg">Centro de Descargas</a>
         <a href="images/guia-calendario.pdf"  download="Guia de usuario - Calendario Forestal.pdf" id="descargarguiainab" class="btn btn-default btn-lg">Gu&iacute;a del Calendario Forestal</a>
         <br><br><br><br><br>
-        <img src="images/image003.jpg" alt=""  style="width:250px;height:130px;">
+        <img src="images/inabhorizontal.png" alt=""  style="width:250px;height:130px;">
         <img src="images/umg.png" alt=""  style="width:150px;height:150px;">&nbsp;&nbsp;&nbsp;
         <img src="images/cintillo-rain.jpg" alt=""  style="width:400px;height:60px;">
       </div>
