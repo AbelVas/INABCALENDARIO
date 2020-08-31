@@ -109,7 +109,7 @@
           <div class="col-lg-12 col-md-10 col-sm-10 col-xs-12" id="calendario">
             
           </div>
-          <h3 class="text-center"><a href="../images/guia-calendario.pdf" download="Guia de usuario - Calendario Forestal.pdf" id="descargarguiainab" style="color:#000"><i class="fas fa-file-download"></i>&nbsp; Descargar Gu&iacutea para el uso del calendario forestal Proporcionada por INAB</a></h3>
+          <h3 class="text-center"><a href="../images/guia-calendario.pdf" download="Guia de usuario - Calendario Forestal.pdf" id="descargarguiainab" style="color:#000"><i class="fas fa-file-download"></i>&nbsp; Descargar Gu&iacutea de Usuario del calendario forestal Proporcionada por INAB</a></h3>
           </div>
          </div>
        </div>
