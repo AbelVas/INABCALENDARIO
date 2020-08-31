@@ -22,7 +22,7 @@
         <a href="descargas/index.php" target="_blank" class="btn btn-default btn-lg">Centro de Descargas</a>
         <a href="images/guia-calendario.pdf"  download="Guia de usuario - Calendario Forestal.pdf" id="descargarguiainab" class="btn btn-default btn-lg">Gu&iacute;a del Calendario Forestal</a>
         <br><br><br><br><br>
-        <img src="images/logoinab3.png" alt=""  style="width:250px;height:130px;">
+        <img src="images/image003.jpg" alt=""  style="width:250px;height:130px;">
         <img src="images/umg.png" alt=""  style="width:150px;height:150px;">&nbsp;&nbsp;&nbsp;
         <img src="images/cintillo-rain.jpg" alt=""  style="width:400px;height:60px;">
       </div>
@@ -55,7 +55,7 @@
          <div class="row">
           <!--Columna 1-->
           <div class="col-lg-4 col-md-2 col-sm-6 col-xs-12">
-           <p> <img src="images/image003.jpg"  alt="imagen del inab" class="img-responsive center-block" style="border-radius: 100%; width:300px;height: 200px;"></p>
+           <p> <img src="images/logoinab.png"  alt="imagen del inab" class="img-responsive center-block" style="border-radius: 100%; width:300px;height: 200px;"></p>
             <h4 class="text-center"><b>Instituto nacional de Bosques (INAB), m&aacute;s bosques, m&aacute;s vida.</b></h4>
             <p align="justify" style="font-size:17px">Estamos orgullosos de trabajar para el Sector Forestal de Guatemala desde el a&ntildeo 1996. El INAB es una entidad estatal, aut&oacutenoma, descentralizada, con personalidad jur&iacutedica, patrimonio propio e independencia administrativa, y es el &oacutergano de direcci&oacuten y autoridad competente del Sector P&uacuteblico Agr&iacutecola en materia Forestal.</p>
             <h4 class="text-center"><b>Visi&oacuten:</b></h4>
