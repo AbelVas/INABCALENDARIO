@@ -76,7 +76,7 @@
             <h4 class="text-center"><b>Misi&oacuten:</b></h4>
             <p align="justify" style="font-size:17px">Estamos creando un mundo m&aacutes sostenible mediante el uso de las fuerzas sociales y del mercado para proteger la naturaleza y mejorar la vida de los agricultores y comunidades forestales. .</p>
             <br><br>
-            <div class="text-center"><img src="images/cintillo-rain.jpg" alt="" class="img-responsive center-block"  style=""></div>
+            <div class="text-center"><img src="images/logousaid.png" alt="" class="img-responsive center-block"  style=""></div>
             <h4 class="text-center"><b>Programa Clima, Naturaleza y Comunidades en Guatemala</b></h4>
             <p align="justify" style="font-size:17px">El programa Clima, Naturaleza y Comunidades en Guatemala (CNCG), implementado por Rainforest Alliance con el apoyo de la Agencia para el Desarrollo Internacional (USAID), ayuda a conservar la biodiversidad de Guatemala, respaldar los esfuerzos para mitigar los impactos negativos del cambio clim&aacute;tico, fortalecer los sistemas de monitoreo biol&oacute;gico de flora y fauna, y promover el desarrollo sostenible de las comunidades rurales dependientes de los bosques.</p>
 
