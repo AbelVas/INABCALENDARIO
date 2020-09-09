@@ -16,7 +16,7 @@
         </div>
         <!--Seccion 3-->
         <div class="col-sm-4 text-center">
-          <h5>Autor del Calendario Forestal: Licerio Camey Huz, Responsable de Gesti&oacute;n Forestal Maya, INAB</h5>
+          <h5>Autor del Calendario Forestal: Licerio Camey Huz, Responsable de Gesti&oacute;n Forestal Maya, INAB - 2018</h5>
           <h6>Autores de la Aplicaci&oacute;n:<br> Abel V&aacutesquez, Nery D&iacuteaz y Edinson Cuc.</h6>
           <h6>Ingenier&iacutea en Sistemas de Informaci&oacuten y Ciencias de la Computaci&oacuten, Sede Cob&aacuten, Universidad Mariano G&aacute;lvez Alta Verapaz - 2020</h6>
         </div>
