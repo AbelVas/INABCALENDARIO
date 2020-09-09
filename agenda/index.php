@@ -13,5 +13,5 @@ $document->loadHtml($page);
 $document->setPaper('A3','landscape');
 //$document->setPaper('A4','portrait');
 $document->render();
-$document->stream('inab',array('Attachment'=>0));
+$document->stream('Calendario_'.$anio_select,array('Attachment'=>0));
 ?>
