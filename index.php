@@ -137,6 +137,9 @@
      </div>
 
      <div>
+     
+     </div>
+     <div class="container">
      <div class="row">
      <h3 class="text-center"><b>Altar Maya y Observatorio Solar</b></h3>
      <img src="images/gente.jpg" alt="" class="img-responsive center-block"  style="">
