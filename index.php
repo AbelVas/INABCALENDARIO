@@ -20,7 +20,7 @@
        <div class="landing-text">
          <h1>Calendario Forestal</h1>
          <h3>Conocimientos ancestrales y pr&aacutecticas tradicionales de los pueblos ind&iacutegenas</h3>
-        <a href="descargas/index.php" target="_blank" class="btn btn-default btn-lg">Centro de Descargas</a>
+        <a href="descargas/index.php" target="_blank" class="btn btn-default btn-lg">Centro de Descargas</a>&nbsp;&nbsp;
         <a href="images/guia-calendario.pdf"  download="Guia de usuario - Calendario Forestal.pdf" id="descargarguiainab" class="btn btn-default btn-lg">Gu&iacute;a del Calendario Forestal</a>
         
         
