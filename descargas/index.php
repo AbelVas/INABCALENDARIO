@@ -8,6 +8,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png" style="border-radius:100%">
     <title><?php echo $pagina.TIT?></title>
     <?php include '../includes/scripts_calendar.php'?>
 <script src="../js/es.js"></script>
