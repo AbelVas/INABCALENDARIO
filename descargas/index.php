@@ -134,7 +134,7 @@
         </div>
        </div>
     </div>
-    <div id="fixeddescargas"></div>
+    
     <?php include '../includes/footer.php';  ?>
 </body>
 </html>
