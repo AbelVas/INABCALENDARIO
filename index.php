@@ -35,7 +35,7 @@
    
    </div>
    
-    <div class="padding"></div>
+    <div class="padding" id="acercade"></div>
      <!--Seccion 2-->
      <div class="padding">
        <div class="container">
