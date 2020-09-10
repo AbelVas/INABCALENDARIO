@@ -118,6 +118,8 @@
 	    </div>
          <!--Columna 2-->
          <div class="col-sm-6 text-center">
+         <img src="images/fasesluna/nueva.jpeg" alt="" class="img-responsive center-block" style="border-radius:100%;width:150px;height:150px;">
+          <h4>Luna Nueva</h4>
           <img src="images/fasesluna/creciente.jpg" alt="" class="img-responsive center-block" style="border-radius:100%;width:150px;height:150px;">
           <h4>Cuarto Creciente</h4> 
           <br>
@@ -127,8 +129,7 @@
           <img src="images/fasesluna/menguante.jpeg" alt="" class="img-responsive center-block" style="border-radius:100%;width:150px;height:150px;">
           <h4>Cuarto Menguante</h4> 
           <br>
-          <img src="images/fasesluna/nueva.jpeg" alt="" class="img-responsive center-block" style="border-radius:100%;width:150px;height:150px;">
-          <h4>Luna Nueva</h4> 
+          
         </div>
        </div>
        </div>
