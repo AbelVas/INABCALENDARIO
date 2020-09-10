@@ -30,7 +30,7 @@
       </div>
    <div class="text-center container">
         <img src="images/inabhorizontal.png" alt="" style="width:550px;height:180px;">
-        <img src="images/reainfor.png" alt=""  style="width:350px;">&nbsp;&nbsp;&nbsp;
+        <img src="images/reainfor.png" alt=""  style="width:350px;">
         <img src="images/umg.png" alt=""  style="width:170px;height:170px;">
    
    </div>
