@@ -31,7 +31,7 @@
    <div class="text-center container">
         <img src="images/inabhorizontal.png" alt="" style="width:500px;height:120px;">
         <img src="images/reainfor.png" alt=""  style="width:200px;">
-        <img src="images/umg.png" alt=""  style="width:170px;height:170px;">
+        <img src="images/umg.png" alt=""  style="width:100px;height:100px;">
    
    </div>
    
