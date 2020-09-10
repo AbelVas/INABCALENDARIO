@@ -6,10 +6,11 @@
 <!DOCTYPE html>
 <html lang="ES-es">
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="UTF-8">
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png" style="border-radius:100%">
   <title><?php echo $pagina.TIT.' '.$anio?></title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
  <?php include 'includes/scripts.php'?>
 </head>
 <body>
