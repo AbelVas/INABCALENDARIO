@@ -121,9 +121,7 @@
        </div>
 
 </div>
-
-    <div id="fixeddescargas2"></div>
-     <?php
+<?php
 include '../includes/footer.php';
 ?>
 </body>
