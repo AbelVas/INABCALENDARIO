@@ -51,8 +51,6 @@
                 
 
                 <table class="table table-hover table-responsive">
-                
- 
                         <th colspan="2" class="text-center" style="font-size: 36px;">Calendarios Disponibles para descargar</th>
                            
 
@@ -138,7 +136,7 @@
      <div class="row">
      <h3 class="text-center"><b>Altar Maya y Observatorio Solar</b></h3>
      <img src="../images/sol-ceremonia2.jpg" alt="" class="img-responsive center-block"  style="">
-     <h6 class="text-center">Fotografo: Licerio Camey Huz</h6>
+     <h6 class="text-center">Fotografo: Licerio Camey Huz.</h6>
      </div>
      </div>
     <?php include '../includes/footer.php';  ?>
