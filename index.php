@@ -28,14 +28,14 @@
       </div>
         
       </div>
-   <div class="text-center container">
+   <div class="text-center container" id="acercade">
         <img src="images/inabhorizontal.png" alt="" style="width:400px;height:140px;">
         <img src="images/reainfor.png" alt=""  style="width:350px;">
         <img src="images/umg.png" alt=""  style="width:170px;height:170px;">
    
    </div>
    
-    <div class="padding" id="acercade"></div>
+    <div class="padding"></div>
      <!--Seccion 2-->
      <div class="padding">
        <div class="container">
