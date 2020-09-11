@@ -131,10 +131,10 @@
          ?>
                     {
                         id:"<?php echo $datoos[13]?>",
-                        title:"<?php echo ($datoos[2]);?>",
+                        title:"<?php echo utf8_encode($datoos[2]);?>",
                         start:"<?php echo  $menosTresDias?>",
                         end:"<?php echo $masTresDias?>",
-                        descripcion:"<?php echo (("<div class='text-center'><img src='../$datoos[6]' style='width:100px;height:100px;border-radius:100%'></div><br> <b>Fase Lunar: </b>".$datoos[5]."<br><br><b>Descripci"."&oacute"."n: </b>".$datoos[3]."<br><br><b>Fecha de Inicio: </b>".date_format($INI,'d/m/Y')."<br><br><b>Fecha Optima: </b>".date_format($date,'d/m/Y')."<br><br><b>Fecha Final:</b>".date_format($FINA,'d/m/Y')." </b><br><br><b>Cambio de Sol: </b>".$datoos[10]."<br><br><b>Ciclo del &Aacuterbol: </b>".$datoos[12]."<br><br><b>Tiempo: </b>".$datoos[9]."<br><br><b>Epoca: </b>".$datoos[8]))?>",
+                        descripcion:"<?php echo utf8_encode(("<div class='text-center'><img src='../$datoos[6]' style='width:100px;height:100px;border-radius:100%'></div><br> <b>Fase Lunar: </b>".$datoos[5]."<br><br><b>Descripci"."&oacute"."n: </b>".$datoos[3]."<br><br><b>Fecha de Inicio: </b>".date_format($INI,'d/m/Y')."<br><br><b>Fecha Optima: </b>".date_format($date,'d/m/Y')."<br><br><b>Fecha Final:</b>".date_format($FINA,'d/m/Y')." </b><br><br><b>Cambio de Sol: </b>".$datoos[10]."<br><br><b>Ciclo del &Aacuterbol: </b>".$datoos[12]."<br><br><b>Tiempo: </b>".$datoos[9]."<br><br><b>Epoca: </b>".$datoos[8]))?>",
                         color:"<?php echo $datoos[1]?>", 
                         textColor:"#fff"
 
