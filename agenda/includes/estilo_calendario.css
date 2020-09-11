@@ -48,7 +48,6 @@ body{
   #titulo1, .titulo1{
       background: #65B32E;
       color: black;
-      font-weight: bold;
       font-family: sans-serif;
       border: 2px solid;
       border-color: floralwhite;
@@ -58,7 +57,7 @@ body{
   #titulo2, .titulo2{
       background: #009993;
       color: black;
-      font-weight: bold;
+      
       font: sans-serif;
       border: 2px solid;
       border-color: floralwhite;
