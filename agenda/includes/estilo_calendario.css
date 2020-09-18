@@ -151,7 +151,7 @@ body{
      text-align: left;
      color: white;
       font-weight: bold;
-      font-style: oblique;
+      
   }
   #luna{
       max-width: 25%;
@@ -252,7 +252,7 @@ body{
   
   
   p2{
-          font-size: 11px;
+          font-size: 13px;
           font-family: "Times New Roman", Times, serif;
           font-style: oblique;
           padding-left: 380px;
