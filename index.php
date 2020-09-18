@@ -45,9 +45,9 @@
            <img src="images/calendario-forestal.jpg" alt="">
          </div>
          <!--Columna 2-->
-         <div class="col-sm-6 text-center">
+         <div class="col-sm-6 text-center"><br><br><br><br>
            <h2><b>Presentaci&oacute;n</b></h2>
-           <p class="lead" align="justify" style="font-size:17px">El Instituto Nacional de Bosques, INAB, valora y respeta la cultura de los Pueblos Indígenas, al construir un Calendario Forestal desde los Conocimientos Ancestrales y Pr&aacute;cticas tradicionales, dicho instrumento t&eacute;cnico y de planificaci&oacute;n, es para el manejo sostenible de los bosques en Guatemala y aporta al cumplimiento de la Ley Forestal 101-96. </p>
+           <p class="lead" align="justify" style="font-size:17px">El Instituto Nacional de Bosques, INAB, valora y respeta la cultura de los Pueblos Indígenas, al construir un Calendario Forestal desde los Conocimientos Ancestrales y Pr&aacute;cticas tradicionales, dicho instrumento t&eacute;cnico y de planificaci&oacute;n, es para el manejo sostenible de los bosques en Guatemala y aporta al cumplimiento de la Ley Forestal Decreto N&uacute;mero 101-96. </p>
            
           </div>
        </div>
