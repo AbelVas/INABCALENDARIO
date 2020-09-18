@@ -51,7 +51,7 @@
                 
 
                 <table class="table table-hover table-responsive">
-                        <th colspan="2" class="text-center" style="font-size: 36px;">Calendarios Disponibles para descargar</th>
+                        <th colspan="2" class="text-center" style="font-size: 36px;">Calendarios disponibles para descargar</th>
                            
 
                         <tbody>
