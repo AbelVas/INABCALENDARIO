@@ -24,3 +24,6 @@
        <h6 class="text-center">&copy;2020 Todos los Derechos Reservados</h6>
        <h6 class="text-center">El dise&ntilde;o de este sitio web es posible gracias al generoso apoyo de la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID) a trav&eacute;s de su Programa Clima, Naturaleza y Comunidades en Guatemala (CNCG), el contenido es responsabilidad del Instituto Nacional De Bosques (INAB) y no necesariamente reflejan las opiniones de USAID o del gobierno de los Estados Unidos de Am&eacute;rica. </h6>
      </footer>
+
+
+
